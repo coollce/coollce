@@ -3,6 +3,7 @@
 <ul>
 <li>更新采集中。。。</li>
 </ul>
+##红队
 <h2>信息收集</h2>
 <ul>
 <li><p><a href="https://github.com/lz520520/railgun">渗透工具</a>: <a href="https://github.com/lz520520/railgun">https://github.com/lz520520/railgun</a></p>
