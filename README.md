@@ -41,38 +41,6 @@
 <ul>
 <li><a href="https://github.com/TheKingOfDuck/fuzzDicts">https://github.com/TheKingOfDuck/fuzzDicts</a>　　fuzzdb</li>
 </ul>
-<h2>后主机存活扫描</h2>
-<pre><code>    nbtscan.exe：nbtscan 192.168.1.1/20
-
-    arp-scan.exe：arp-scan.exe -t 192.168.1.1/24　　https://github.com/QbsuranAlang/arp-scan-windows-
-
-    ping：for /L %I in (1,1, 254) do @ping -w 1 -n 1 192.168.1.%I | findstr “TTL=”
-
-    Invoke-ARPScan.ps1： powershell.exe -exec bypass -Command “&amp; {Import-Module c:\Invoke-ARPScan.ps1;Invoke-ARPScan -CIDR 192.168.1.1/24}” &gt;&gt; c:\log.txt
-
-    Powershell 渗透测试工具-Nishang　　https://github.com/samratashok/nishang
-
-    cping：cping scan smbvul 10.33.93.1 10.33.93.1
-
-    qs.exe：qs alive 192.168.1.1/24
-
-    dnsbrute
-
-    F-NAScan.py
-
-    Hscan</code></pre>
-<h2>端口扫描</h2>
-<pre><code>  s.exe： s.exe tcp 192.168.1.1 192.168.1.254 445,1433,3389,7001 256 /Banner /save
-
-  scanline： scanline -h -t 20,80-89,110,389,445,3389,1099,7001,3306,1433,8080,1521 -u 53,161 -O c:\log.txt -p 192.168.1.1-254 /b
-
-  Invoke-Portscan.ps1：Invoke-PortScan -StartAddress 192.168.1.1 -EndAddress 192.168.1.254 -ScanPort [探测存活 -ResolveHost]
-
-  K8PortScan.exe
-
-  F-NAScan.py
-
-  nmap</code></pre>
 <h2>后渗透</h2>
 <ul>
 <li><p><a href="https://github.com/BloodHoundAD/BloodHound">https://github.com/BloodHoundAD/BloodHound</a>　　域用户</p>
