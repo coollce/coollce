@@ -1,7 +1,4 @@
-<html lang="en"><head>
-    <meta charset="UTF-8">
-    <title></title>
-<style id="system" type="text/css">body{}</style><style id="custom" type="text/css"></style></head>
+<html>
 <body marginheight="0"><h2>日常脚本</h2>
 <ul>
 <li>更新采集中。。。</li>
@@ -156,5 +153,4 @@
 <li><p><a href="https://github.com/T0xst/linux">https://github.com/T0xst/linux</a>　　Linux 安全检查</p>
 </li>
 </ul>
-<p>Edit By <a href="http://mahua.jser.me">MaHua</a></p>
 </body></html>
