@@ -2,6 +2,11 @@
 <body marginheight="0"><h2>日常脚本</h2>
 <ul>
 <li>更新采集中。。。</li>
+ <p>Baidu_OCR:百度ocr识别api接口</p>
+ <p>baacloud_singn:vpn签到领流量</p>
+ <p>linux_sec_check:linux安全检查shell</p>
+ <p>rad_xray:xray和rad的自动联动</p>
+  <p>redis_nopassword:redis未授权检测及写入公钥</p>
 </ul>
 <h1>红队<h1>
 <h2>信息收集</h2>
