@@ -7,6 +7,7 @@
  <p>linux_sec_check:linux安全检查shell</p>
  <p>rad_xray:xray和rad的自动联动</p>
   <p>redis_nopassword:redis未授权检测及写入公钥</p>
+ <p>tools.sign:Tools签到脚本</p>
 </ul>
 <h1>红队<h1>
 <h2>信息收集</h2>
