@@ -1,0 +1,17 @@
+
+PS: 为了减少程序体积,调用外部资源的功能,默认不集成在主程序里
+
+K8飞刀20160414版本后默认缺少以下资源(缺少将影响功能)
+
+0x001 K8_qqwry.dat Not Found! 无法获取地址位置或影响2级域名扫描的准确性! （可官网下载纯真数据库）
+
+0x002 SqlMap Not Found! 将无法使用Sqlmap检测注入! 路径 Web-EXP\sqlmap     (可SQLMAP官网下载)
+
+0x003 JbossExp Not Found! 路径 Web-EXP\jboss_exploit_fat.jar              (该EXP可网上找)
+
+0x004 K8dic Not Found! 将无法使用后台扫描功能 WP爆破功能 2级域名扫描功能
+
+如您需要:请下载缺失的文件 把"K8飞刀 Not Found"
+目录里的内容全部复解压到K8飞刀主程序目录覆盖即可
+
+下载地址：https://pan.baidu.com/s/1c2kDuIc 不保证长期有效,可有会被百度删。
