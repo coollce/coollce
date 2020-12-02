@@ -1,0 +1,10 @@
+CVE-2020-0796.py   批量检测脚本    
+	python CVE-2020-0796.py  192.168.1.0/24（或者单个ip）
+
+cve-2020-0796-blue-exp.exe  蓝屏攻击    
+
+	直接双击输入ip地址
+
+cve-2020-0796-localsystem.exe  本地提权   
+
+	cmd窗口执行  cve-2020-0796-localsystem.exe 127.0.0.1

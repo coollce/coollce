@@ -1,0 +1,52 @@
+标签分类：
+	块儿级标签
+		默认占浏览器宽度
+		能设置长和宽
+	内联标签
+		根据内容决定长度
+		不能设置长和宽
+<table>
+	<thead>
+		<tr>
+			<td>xxx</td>
+			<td>xxx</td>
+			<td>xxx</td>
+		</tr>
+	</thead>
+</table>
+2.form表单相关
+	前后端有数据交互的时候用form表单
+3.CSS
+
+
+伪类标签:
+a:link
+a:visited  (点击过的)
+a:hover(鼠标移动上)
+a:active(选定的)
+input:focus (input输入框获取焦点样式)
+
+	1.字体 font-family
+	2.sont-size
+	2.font-weight
+	3文本类
+		text-align  对齐
+		text-decoration 去掉下划线
+		text-indent 首行缩进
+	4.背景
+		1.background
+				colour url
+		background-image （url） repeat:no-repeat 50% 50%
+	5.边框 border
+		宽  样式 solid（实线） 颜色
+	6.盒子模型
+		content（内容）
+		2.padding（内填充，内边距）调整内容和边框之间距离
+		3.border 边框
+		4.margin 外边距，调整两个标签之间的间距
+		
+		
+		
+		
+		
+		
